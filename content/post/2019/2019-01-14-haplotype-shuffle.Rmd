@@ -1,0 +1,19 @@
+---
+title: "Haplotype Shuffle"
+author: "Bradley M Richardson"
+date: 2019-01-14T21:13:14-05:00
+categories: ["Project Update"]
+tags: ["Mississippi", "haplotype", "aeromonas", "catfish"]
+---
+
+ As mentioned in the project description of my _Aeromonas_ work, we are currently working with two different strains/genotypes of virulent _Aeromonas hydrophila_. Dealing with multiple strains of a bacteria can prove difficult with creating vaccines or administering antibiotics so we wanted to see how the temporal distribution of these two strains compared.
+  
+  So, we analyzed the isolates from various cases using polymerase chain reaction (PCR) and electrophoresis. The image below shows what a typical electrophoresis gel looks like and how to read it. Each white band is a specific disease case and the location of each band tells us what strain of bacteria was collected from a specific case.
+
+![](/post/2019/images/electrophoresis-gel.png)
+
+Using isolates collected from diseased catfish in the Mississippi Delta from 2013 (a year before the S14 strain was collected) to 2017, a very interesting pattern emerged. In less than 5 years, the new S14 strain made up 100% of all virulent Aeromonas cases (see figure below)!
+
+![](/post/2019/images/temporal-shift.png)
+
+As mentioned before, this could have important implications for people working to create a vaccine or administering antibiotics because there is no guarantee that the medications will work on both strains!

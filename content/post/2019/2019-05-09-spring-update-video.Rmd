@@ -1,0 +1,20 @@
+---
+title: "Spring Semester Wrap-up!"
+author: "Bradley M Richardson"
+date: 2019-05-09T21:13:14-05:00
+categories: ["Project Update"]
+tags: ["Aeromonas", "catfish", "SLIR", "systems model", "video"]
+---
+
+  As the spring semester wraps up and the 2018-19 school year comes to a close. I am currently prepping for the **_LAST_** field season of my doctoral work! I am slated to graduate in May 2020, which means I will be defending my dissertation in February or March, most likely.
+  
+  I wanted to create a quick video, just so you all could get an idea of where we are with our systems model for the _Aeromonas hydrophila_ pathogen. The model is built within a free, online app called [Insight Maker](https://insightmaker.com/), if you follow the link and click on "Explore Insights", then search "Aeromonas" you will see a few different models that I have built.
+  
+  This particular model has gone through many, many iterations thusfar and will continue to change as we move forward and gain new information. However, we feel we are really starting to hone the model and the dynamics seem to be working in a reasonable fashion.
+  
+  So, below is a short (~5 min) video explaining some of the basics of our model and a couple of example scenarios to show the the pathogen and, more importantly, how a farmer handles the pathogen may effect their financial outcome.
+
+<div align="center">
+   <iframe width="560" height="315" src="/post/2019/files/Richardson_Spring 2019 Update Video.mp4" frameborder="0" allowfullscreen>
+   </iframe>
+</div>

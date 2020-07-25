@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Charles C. Mischke | Bradley M. Richardson</title>
+    <link>/author/charles-c.-mischke/</link>
+      <atom:link href="/author/charles-c.-mischke/index.xml" rel="self" type="application/rss+xml" />
+    <description>Charles C. Mischke</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Bradley M Richardson</copyright><lastBuildDate>Sun, 12 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Charles C. Mischke</title>
+      <link>/author/charles-c.-mischke/</link>
+    </image>
+    
+    <item>
+      <title>Using quantitative polymerase chain reaction (qPCR) and occupancy models to estimate atypical Aeromonas hydrophila (aAh) prevalence in catfish</title>
+      <link>/publication/aeromonas-swabs/</link>
+      <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/aeromonas-swabs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

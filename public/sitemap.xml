@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/example/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2020-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/aeromonas/</loc>
+    <lastmod>2020-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/aquaculture/</loc>
+    <lastmod>2020-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/bradley-m.-richardson/</loc>
+    <lastmod>2020-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/catfish/</loc>
+    <lastmod>2020-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/charles-c.-mischke/</loc>
+    <lastmod>2020-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/cynthia-ware/</loc>
+    <lastmod>2020-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/david-j.-wise/</loc>
+    <lastmod>2020-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/field-study/</loc>
+    <lastmod>2020-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/larry-a.-hanson/</loc>
+    <lastmod>2020-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/mark-l-lawrence/</loc>
+    <lastmod>2020-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/matt-j.-griffin/</loc>
+    <lastmod>2020-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/michael-e.-colvin/</loc>
+    <lastmod>2020-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/occupancy/</loc>
+    <lastmod>2020-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/qpcr/</loc>
+    <lastmod>2020-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/terrence-e.-greenway/</loc>
+    <lastmod>2020-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/todd-s.-byars/</loc>
+    <lastmod>2020-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/aeromonas-swabs/</loc>
+    <lastmod>2020-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/aeromons/</loc>
+    <lastmod>2020-04-21T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-04-21T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/doctoral-defense/</loc>
+    <lastmod>2020-04-21T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2020/2020-04-21-doctoral-defense/</loc>
+    <lastmod>2020-04-21T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/mississippi/</loc>
+    <lastmod>2020-04-21T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-04-21T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/project-update/</loc>
+    <lastmod>2020-04-21T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/alligator-gar/</loc>
+    <lastmod>2019-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/aquatic-ecology/</loc>
+    <lastmod>2019-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/gar/</loc>
+    <lastmod>2019-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/diet-overlap/</loc>
+    <lastmod>2019-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/lepisosteidae/</loc>
+    <lastmod>2019-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2019-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/gill-net/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/gar-capture/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/michael-b.-flinn/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/passive-capture/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/pgd/</loc>
+    <lastmod>2019-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/disease/</loc>
+    <lastmod>2019-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/gambusia/</loc>
+    <lastmod>2019-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/trematodes/</loc>
+    <lastmod>2019-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/morphometrics/</loc>
+    <lastmod>2019-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/parasite/</loc>
+    <lastmod>2019-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/pgd/</loc>
+    <lastmod>2019-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/trematode/</loc>
+    <lastmod>2019-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2019/2019-08-20-summer-shenanigans/</loc>
+    <lastmod>2019-08-20T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/trematodes/</loc>
+    <lastmod>2019-08-20T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/slir/</loc>
+    <lastmod>2019-05-09T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2019/2019-05-09-spring-update-video/</loc>
+    <lastmod>2019-05-09T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/systems-model/</loc>
+    <lastmod>2019-05-09T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/video/</loc>
+    <lastmod>2019-05-09T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/blog-post/</loc>
+    <lastmod>2019-04-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/catalpa/</loc>
+    <lastmod>2019-04-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2019/2019-04-23-prelim-macroinvert-cca/</loc>
+    <lastmod>2019-04-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/cca/</loc>
+    <lastmod>2019-04-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/macroinvertebrates/</loc>
+    <lastmod>2019-04-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/statistics/</loc>
+    <lastmod>2019-04-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/dissertation/</loc>
+    <lastmod>2019-01-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2019/2019-01-23-prelim-prep/</loc>
+    <lastmod>2019-01-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/haplotype/</loc>
+    <lastmod>2019-01-14T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2019/2019-01-14-haplotype-shuffle/</loc>
+    <lastmod>2019-01-14T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/aeromonas/</loc>
+    <lastmod>2018-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/catalpa/</loc>
+    <lastmod>2018-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/epidemiology/</loc>
+    <lastmod>2018-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/lamprey/</loc>
+    <lastmod>2018-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/magby/</loc>
+    <lastmod>2018-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/outreach/</loc>
+    <lastmod>2018-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/pit-tag/</loc>
+    <lastmod>2018-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/pti-assessment/</loc>
+    <lastmod>2018-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/lamprey/</loc>
+    <lastmod>2018-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/stream-health/</loc>
+    <lastmod>2018-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/stream-monitoring/</loc>
+    <lastmod>2018-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/classroom/</loc>
+    <lastmod>2017-12-07T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/eduinquiry/</loc>
+    <lastmod>2017-12-07T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/pens/</loc>
+    <lastmod>2017-12-07T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2017/2017-12-07-pens-fight-fears/</loc>
+    <lastmod>2017-12-07T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/testing/</loc>
+    <lastmod>2017-12-07T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/education/</loc>
+    <lastmod>2017-11-30T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/nature/</loc>
+    <lastmod>2017-11-30T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/outdoors/</loc>
+    <lastmod>2017-11-30T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2017/2017-11-30-outdoor-ed/</loc>
+    <lastmod>2017-11-30T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/multiple-choice/</loc>
+    <lastmod>2017-11-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2017/2017-11-23-bubbles/</loc>
+    <lastmod>2017-11-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/note-taking/</loc>
+    <lastmod>2017-11-16T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2017/2017-11-16-note-taking/</loc>
+    <lastmod>2017-11-16T21:13:14-05:00</lastmod>
+  </url>
+  
+</urlset>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>occupancy | Bradley M. Richardson</title>
+    <link>/tag/occupancy/</link>
+      <atom:link href="/tag/occupancy/index.xml" rel="self" type="application/rss+xml" />
+    <description>occupancy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Bradley M Richardson</copyright><lastBuildDate>Sun, 12 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>occupancy</title>
+      <link>/tag/occupancy/</link>
+    </image>
+    
+    <item>
+      <title>Using quantitative polymerase chain reaction (qPCR) and occupancy models to estimate atypical Aeromonas hydrophila (aAh) prevalence in catfish</title>
+      <link>/publication/aeromonas-swabs/</link>
+      <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/aeromonas-swabs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Atypical Aeromonas hydrophila in Catfish</title>
+      <link>/project/aeromonas/</link>
+      <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/project/aeromonas/</guid>
+      <description>&lt;p&gt;Commercial aquaculture is a global, multibillion dollar industry in a constant battle about disease and pathogens. Commercial catfish production has been fighting an atypical strain of the bacterium, &lt;em&gt;Aeromonas hydrophila&lt;/em&gt; (aAh), in the southeastern United States since the late 2000s. Atypical &lt;em&gt;A. hydrophila&lt;/em&gt; outbreaks range from chronic to acute and can cause losses totaling 10,000+ kg in only a few days.&lt;/p&gt;
+&lt;p&gt;The disease ecology and outbreak risk factors are poorly understood. Potential predictor variables have included phytoplankton blooms, nitrogenous waste build-up, water temperatures, and many others. However, the high variability in water quality and plankton communities and densities of earthen aquaculture ponds makes prediction of outbreaks more difficult and no study, to date, has been able to consistently predict vAh outbreaks within aquaculture ponds.&lt;/p&gt;
+&lt;p&gt;This project aims to investigate vAh prevalence and risk factors associated with acute outbreaks in commercial catfish ponds. The project will examine the new strain of &lt;em&gt;A. hydrophila&lt;/em&gt; from a bacterium, better profiling the isolates collected from sick fish at two fish health diagnostic labs. An emphasis of this project is understanding the dynamics of the catfish aquaculture pond. Knowledge accrued from an overall systems model can then be used to inform decisions and variables used in an epidemiology model. By focusing on the environment as well as the pathogen and host, the study moves toward true eco-epidemiology and provides a better overall understanding of the emerging pathogen and its ecology.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

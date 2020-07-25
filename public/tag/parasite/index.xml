@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>parasite | Bradley M. Richardson</title>
+    <link>/tag/parasite/</link>
+      <atom:link href="/tag/parasite/index.xml" rel="self" type="application/rss+xml" />
+    <description>parasite</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Bradley M Richardson</copyright><lastBuildDate>Wed, 02 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>parasite</title>
+      <link>/tag/parasite/</link>
+    </image>
+    
+    <item>
+      <title>Biocontrol of Proliferative Gill Disease using Gambusia</title>
+      <link>/project/pgd/</link>
+      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/project/pgd/</guid>
+      <description>&lt;p&gt;Proliferative Gill Disease (PGD) is a prominant disease concern in catfish aquaculture of the southeastern United States and is the third leading disease found in the Delta region of Mississippi. In an effort to mitigate the effects of PGD, we have evaluated the efficacy of stocking &lt;em&gt;Gambusia&lt;/em&gt; spp. at various densities to serve as a dead-end host for the &lt;em&gt;Henneguya ictaluri&lt;/em&gt; parasite. Previous research has shown that fish mucous from multiple species can activate attachment of the parasite, even if the fish is not a viable host.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Morphometric Analysis of Trematode Parasites</title>
+      <link>/project/trematodes/</link>
+      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/project/trematodes/</guid>
+      <description>&lt;p&gt;Identification of parasite taxa can be difficult and is often based on a limited number of specimens. A combination of morphology, life cycle host(s), distribution, and/or genetics are often used to classify novel species. Our research is using morphometric analysis to confirm taxon identification within the &lt;em&gt;Apharyngostrigea&lt;/em&gt; genus as well as develop specific morphometrics that can be used to rapidly differentiate among species.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
