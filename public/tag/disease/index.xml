@@ -5,12 +5,22 @@
     <link>/tag/disease/</link>
       <atom:link href="/tag/disease/index.xml" rel="self" type="application/rss+xml" />
     <description>disease</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Bradley M Richardson</copyright><lastBuildDate>Wed, 02 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Bradley M Richardson</copyright><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>disease</title>
       <link>/tag/disease/</link>
     </image>
+    
+    <item>
+      <title>Macroinvertebrate diversity in catfish production ponds</title>
+      <link>/project/ponddiv/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/project/ponddiv/</guid>
+      <description>&lt;p&gt;Approximately 50% of U.S.-raised catfish production takes place in the state of Mississippi. Catfish production occurs in earthen ponds where many natural processes still occur. With this production setup, natural pond inhabitants must be included in the understanding of the pond environment and how their presence, behaviors, and ecology effect the production of catfish. Many macroinvertebrates can be nuisance species at various periods within the production cycle. For instance, dragonfly nymphs can heavily predate on catfish fry after stocking of ponds for fingerling production. Meanwhile, other macroinvertebrates serve as intermediate hosts to parasites that subsequently infect the catfish. These parasites can cause nearly 100% mortality of a pond population in severe cases. Thus, it is important to understand the ecology of the macroinvertebrates and what roles they play in the produciton pond environment as to create better management strategies for catfish farmers.&lt;/p&gt;
+&lt;p&gt;This project is a small piece of a larger project aiming to investigation snail ecology, seasonal movement, and timing of parasitism. The subsection of the project hopes to fill a knowledge gap in the literature and understanding of the catfish production pond. A multitude of studies have investigated phytoplankton diversity and the effects of different groups on the production cycle; however, little information exists on the macroinvertebrate community and how these species may alter, facilitate, or antagonize processes within the pond that may be important to production. A better understanding of the macroinvertebrate diversity and their functions could provide new insights and management strategies that utilize natural pond ecology to improve catfish production.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Morphometric Analysis of Trematode Parasites</title>
