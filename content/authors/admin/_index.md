@@ -20,9 +20,9 @@ interests:
 - Aquatic Macroinvertebrates
 - Freshwater Fishes
 organizations:
-- name: Mississippi State University
-  url: ""
-role: Aquaculture Biologist
+- name: USDA - Agricultural Research Service
+  url: "www.ars.usda.gov"
+role: Research Fish Biologist
 social:
 - icon: envelope
   icon_pack: fas
@@ -50,4 +50,4 @@ user_groups:
 - Visitors
 ---
 
-I am a doctoral graduate from the Department of Wildlife, Fisheries, and Aquaculture at Mississippi State University. My dissertation research focused on the eco-epidemiology of a bacterial pathogen in farm-raised Channel Catfish (_Ictalurus punctatus_) of Mississippi and surrounding states. My research interests cover a wide breadth of aquatic ecology including macroinvertebrate and fish community structures, species interactions, predator-prey interactions, as well as general ecology and life histories. I also have a strong interest in educational research, particularly in how note-taking effects information retention in the classroom.
+I am a Research Fish Biologist with the USDA-ARS Warmwater Aquaculture Research Unit. My research primarily centers on the ecology of snails and other macroinvertebrates in catfish aquaculture ponds and how this subsequently impacts catfish production. My research interests cover a wide breadth of aquatic ecology including macroinvertebrate and fish community structures, species interactions, predator-prey interactions, as well as general ecology and life histories. I also have a strong interest in educational research, particularly in how note-taking effects information retention in the classroom.
