@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Stoneville, MS"
   date_start = "2021-02-01"
-  date_end = "Present"
+  date_end = ""
   description = """
   Responsibilities include:
   
