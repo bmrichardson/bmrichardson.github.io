@@ -18,6 +18,36 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Research Fish Biologist"
+  company = "USDA - Agricultural Research Service"
+  company_url = ""
+  location = "Stoneville, MS"
+  date_start = "2021-02-01"
+  date_end = "Present"
+  description = """
+  Responsibilities include:
+  
+  * Conducting original research on aquatic ecology of farm-raised Channel Catfish
+  * Aid in statistical analysis for students and colleagues
+  * Work with stakeholders to improve the warmwater aquaculture industry
+  """
+
+[[experience]]
+  title = "Intermittent Researcher"
+  company = "Mississippi State University"
+  company_url = ""
+  location = "Starkville, MS"
+  date_start = "2020-08-15"
+  date_end = "2021-01-10"
+  description = """
+  Responsibilities include:
+  
+  * Aiding on field and laboratory studies in catfish aquaculture management and disease
+  * Aid in statistical analysis for students and colleagues
+  * DNA isolation and genome sequencing techniques for fish disease identification and analysis
+  """
+
+[[experience]]
   title = "Graduate Teaching Assistant (PhD)"
   company = "Mississippi State University"
   company_url = ""
