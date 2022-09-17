@@ -27,7 +27,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: [pgd]
-publication: '*Aquaculture, XX*(XX)'
+publication: '*North American Journal of Aquaculture, 84*(3)'
 publication_short: ""
 publication_types:
 - "2"

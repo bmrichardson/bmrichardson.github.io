@@ -20,7 +20,7 @@ publication_types:
 - "2"
 publishDate: "2019-12-01T00:00:00Z"
 slides: 
-summary: A studied deisgned to elucidate the effect gill net construction, size, and deployment orientation on the capture and retention of gar species.
+summary: A study designed to elucidate the effect gill net construction, size, and deployment orientation on the capture and retention of gar species.
 tags:
 - Lepisosteidae
 - gill net

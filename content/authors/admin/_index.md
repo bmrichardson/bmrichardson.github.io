@@ -44,7 +44,7 @@ social:
   link: https://github.com/bmrichardson
 
 superuser: true
-title: Bradley M. Richardson, PhD
+title: Bradley M. Richardson
 user_groups:
 - Researchers
 - Visitors
