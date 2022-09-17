@@ -33,8 +33,7 @@ publication_types:
 - "2"
 publishDate: "2022-02-08T00:00:00Z"
 slides: 
-summary: Investigation into the potential use of non-ictalurid species as dead-end hosts for _Henneguya ictaluri_, a
-parasite of Channel Catfish
+summary: Investigation into the potential use of non-ictalurid species as dead-end hosts for _Henneguya ictaluri_, a parasite of Channel Catfish
 tags:
 - PGD
 - Henneguya
