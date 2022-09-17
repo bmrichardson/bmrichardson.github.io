@@ -41,7 +41,7 @@ tags:
 - myxozoa
 - aquaculture
 - catfish
-title: Activation of _Henneguya ictaluri_ Actinospores by Nonictalurid Fish Species, with Implications for Management of Proliferative Gill Disease in Catfish Aquaculture
+title: Activation of Henneguya ictaluri Actinospores by Nonictalurid Fish Species, with Implications for Management of Proliferative Gill Disease in Catfish Aquaculture
 url_code: ""
 url_dataset: ""
 url_pdf: https://doi.org/10.1002/naaq.10242
