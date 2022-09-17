@@ -2,7 +2,7 @@
 date: "2019-10-02T00:00:00Z"
 external_link: ""
 image:
-  caption: Photo of catfish with Proliferative Gill Disease (PGD), noted by swollen and fused gill lamellae. Photo credit: R. M. Durborow.
+  caption: Photo of catfish with Proliferative Gill Disease (PGD), noted by swollen and fused gill lamellae. Photo Credit R. M. Durborow.
   focal_point: Smart
 links:
 - icon: twitter
