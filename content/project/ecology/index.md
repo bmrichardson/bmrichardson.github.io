@@ -10,14 +10,14 @@ links:
   name: Follow
   url: https://twitter.com/BradMRichardson
 slides: 
-summary: Investigating the diversity and relative abundance of macroinvertebrates in food fish and fingerling catfish production ponds
+summary: Investigating the diversity and community structures in food fish and fingerling catfish production ponds
 tags:
 - catfish
 - parasites
 - disease
 - snails
 - diversity
-title: Macroinvertebrate diversity in catfish production ponds
+title: Diversity in catfish production ponds
 url_code: ""
 url_pdf: ""
 url_slides: ""

@@ -23,7 +23,7 @@ image:
   caption: 'Pond with dead fish and heavy algal growth. Photo Credit: Bradley Richardson.'
   focal_point: ""
   preview_only: false
-projects: [pond ecology]
+projects: [ecology]
 publication: '*Journal of the World Aquaculture Society, 2023*(1)'
 publication_short: ""
 publication_types:
