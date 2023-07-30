@@ -17,13 +17,13 @@ authors:
 - Matt J. Griffin
 - Brian D. Ott
 date: "2023-06-012T00:00:00Z"
-doi: " https://doi.org/10.1111/jwas.13002"
+doi: "https://doi.org/10.1111/jwas.13002"
 featured: true
 image:
-  caption: 'Inflamed gills of Channel Catfish. Photo credit: fisheries.tamu.edu'
+  caption: 'Pond with dead fish and heavy algal growth. Photo Credit: Bradley Richardson.'
   focal_point: ""
   preview_only: false
-projects: [pgd]
+projects: [pond ecology]
 publication: '*Journal of the World Aquaculture Society, 2023*(1)'
 publication_short: ""
 publication_types:
