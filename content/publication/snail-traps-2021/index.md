@@ -25,7 +25,7 @@ image:
   caption: 'Snails collected in a single trap after 1 week deployment. Photo Credit: Bradley Richardson'
   focal_point: ""
   preview_only: false
-projects: [trematodes]
+projects: [trematode-management]
 publication: '*Journal of the World Aquaculture Society 2023*(1)'
 publication_short: ""
 publication_types:

@@ -17,7 +17,7 @@ image:
   caption: 'Collection of common macroinvertebrates collected from experimental ponds. Photo Credit: Bradley Richardson'
   focal_point: ""
   preview_only: false
-projects: [pgd]
+projects: [pond-ecology]
 publication: '*North American Journal of Aquaculture, 85*(1)'
 publication_short: ""
 publication_types:
