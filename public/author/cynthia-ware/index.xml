@@ -5,12 +5,20 @@
     <link>/author/cynthia-ware/</link>
       <atom:link href="/author/cynthia-ware/index.xml" rel="self" type="application/rss+xml" />
     <description>Cynthia Ware</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Bradley M Richardson</copyright><lastBuildDate>Sun, 12 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Bradley M Richardson</copyright><lastBuildDate>Mon, 12 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Cynthia Ware</title>
       <link>/author/cynthia-ware/</link>
     </image>
+    
+    <item>
+      <title>Evaluating nanopore sequencing for microbial community characterization in catfish pond water</title>
+      <link>/publication/pond-microbiome/</link>
+      <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/pond-microbiome/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Using quantitative polymerase chain reaction (qPCR) and occupancy models to estimate atypical Aeromonas hydrophila (aAh) prevalence in catfish</title>

@@ -5,12 +5,28 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Bradley M Richardson</copyright><lastBuildDate>Tue, 08 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Bradley M Richardson</copyright><lastBuildDate>Mon, 12 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Evaluating nanopore sequencing for microbial community characterization in catfish pond water</title>
+      <link>/publication/pond-microbiome/</link>
+      <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/pond-microbiome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rotenone Has Little Effect on Water Quality, Phytoplankton, Zooplankton, or Macroinvertebrates in Aquaculture Nursery Ponds</title>
+      <link>/publication/rotenone/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/rotenone/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Activation of Henneguya ictaluri Actinospores by Nonictalurid Fish Species, with Implications for Management of Proliferative Gill Disease in Catfish Aquaculture</title>
