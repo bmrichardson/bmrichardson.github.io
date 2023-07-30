@@ -26,10 +26,11 @@ publishDate: "2022-10-24T00:00:00Z"
 slides: 
 summary: Evaluating the short-term effects of rotenone usage in the treatment and management of catfish aquaculture ponds.
 tags:
-- PGD
-- Henneguya
-- qPCR
-- myxozoa
+- rotenone
+- macroinvertebrates
+- water quality
+- zooplankton
+- phytoplankton
 - aquaculture
 - catfish
 title: Rotenone Has Little Effect on Water Quality, Phytoplankton, Zooplankton, or Macroinvertebrates in Aquaculture Nursery Ponds
