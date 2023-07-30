@@ -2,7 +2,7 @@
 date: "2021-03-01T00:00:00Z"
 external_link: ""
 image:
-  caption: _Planorbella trivolvis_ (left) and _Biomphalaria havanensis_ (right), natural first intermediate hosts for _Bolbophorus damnificus_ in catfish aquaculture ponds in SE USA. Photo Credit: Bradley Richardson.
+  caption: Planorbella trivolvis (left) and Biomphalaria havanensis (right), natural first intermediate hosts for Bolbophorus damnificus in catfish aquaculture ponds in SE USA. Photo Credit: Bradley Richardson.
   focal_point: Smart
 links:
 - icon: twitter
