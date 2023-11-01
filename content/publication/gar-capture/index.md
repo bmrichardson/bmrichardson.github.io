@@ -12,7 +12,7 @@ featured: false
 image:
   caption: 'Alligator Gar captured in a multifilament gill net.'
   focal_point: ""
-  preview_only: false
+  preview_only: true
 projects: [gar]
 publication: '*Journal of Fish and Wildlife Management, 10*(2)'
 publication_short: ""
