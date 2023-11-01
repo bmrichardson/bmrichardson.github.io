@@ -42,7 +42,7 @@ tags:
 - _Biomphalaria havanensis_
 - _Planorbella trivolvis_
 - parasite vector
-title: Copper Toxicity to the Ghost Rams-Horn Snail Biomphalaria havanensis
+title: Copper Toxicity to the Ghost Rams-Horn Snail _Biomphalaria havanensis_
 url_code: ""
 url_dataset: ""
 url_pdf: https://doi.org/10.1002/naaq.10279
