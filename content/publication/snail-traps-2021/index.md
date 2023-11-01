@@ -22,7 +22,7 @@ date: "2023-03-05T00:00:00Z"
 doi: " https://doi.org/10.1111/jwas.12962"
 featured: true
 image:
-  caption: 'Snails collected in a single trap after 1 week deployment. Photo Credit: Bradley Richardson'
+  caption: 'Marsh Ramshorn Snail (Left) and Ghost Ramshorn Snail (Right) showing size comparison. Photo Credit: Bradley Richardson'
   focal_point: ""
   preview_only: false
 projects: [trematode-management]

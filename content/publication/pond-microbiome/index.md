@@ -16,7 +16,7 @@ authors:
 - Cynthia Ware
 - Matt J. Griffin
 - Brian D. Ott
-date: "2023-06-012T00:00:00Z"
+date: "2023-06-12T00:00:00Z"
 doi: "https://doi.org/10.1111/jwas.13002"
 featured: true
 image:

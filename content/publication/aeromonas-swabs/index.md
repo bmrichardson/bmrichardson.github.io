@@ -30,7 +30,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: [aeromonas]
-publication: '*Aquaculture, XX*(XX)'
+publication: '*Aquaculture, 530*: 1-7'
 publication_short: ""
 publication_types:
 - "2"
