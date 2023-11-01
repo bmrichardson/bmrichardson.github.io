@@ -8,7 +8,7 @@ authors:
 - Michael B. Flinn
 date: "2019-12-01T00:00:00Z"
 doi: "https://doi.org/10.3996/112018-JFWM-101"
-featured: true
+featured: false
 image:
   caption: 'Alligator Gar captured in a multifilament gill net.'
   focal_point: ""

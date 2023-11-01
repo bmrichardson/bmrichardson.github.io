@@ -23,7 +23,7 @@ authors:
 - David J. Wise
 date: "2022-12-02T00:00:00Z"
 doi: "https://doi.org/10.1002/naaq.10279"
-featured: true
+featured: false
 image:
   caption: 'Marsh Ramshorn (left) and Ghost Ramshorn (right) snails for size comparison. Photo Credit: Bradley Richardson'
   focal_point: ""
