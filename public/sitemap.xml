@@ -128,13 +128,31 @@
     <loc>/author/t.-graham-rosser/</loc>
     <lastmod>2022-02-08T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tag/_biomphalaria-havanensis_/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/_bolbophorus-damnificus_/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/_planorbella-trivolvis_/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/aquatic-ecology/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tag/disease/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tag/diversity/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/ecology/</loc>
+    <loc>/project/pond-ecology/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/trematode-management/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/parasite/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tag/parasites/</loc>
@@ -144,6 +162,9 @@
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tag/snails/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/trematode/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tag/big-numbers/</loc>
@@ -212,9 +233,6 @@
     <loc>/tag/alligator-gar/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/aquatic-ecology/</loc>
-    <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/project/gar/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
   </url><url>
@@ -242,16 +260,10 @@
     <loc>/tag/gambusia/</loc>
     <lastmod>2019-10-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/trematodes/</loc>
+    <loc>/project/trematode-morphometrics/</loc>
     <lastmod>2019-10-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tag/morphometrics/</loc>
-    <lastmod>2019-10-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/parasite/</loc>
-    <lastmod>2019-10-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/trematode/</loc>
     <lastmod>2019-10-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/2019/2019-08-20-summer-shenanigans/</loc>
@@ -314,22 +326,13 @@
     <loc>/tag/epidemiology/</loc>
     <lastmod>2018-11-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/lamprey/</loc>
-    <lastmod>2018-11-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/project/magby/</loc>
     <lastmod>2018-11-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tag/outreach/</loc>
     <lastmod>2018-11-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/pit-tag/</loc>
-    <lastmod>2018-11-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tag/pti-assessment/</loc>
-    <lastmod>2018-11-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/lamprey/</loc>
     <lastmod>2018-11-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tag/stream-health/</loc>
