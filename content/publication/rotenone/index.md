@@ -18,7 +18,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: [pond-ecology]
-publication: '*North American Journal of Aquaculture, 85*(1)'
+publication: '*North American Journal of Aquaculture, 85*(1): 64-73'
 publication_short: ""
 publication_types:
 - "2"

@@ -26,7 +26,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: [trematode-management]
-publication: '*Journal of the World Aquaculture Society 2023*(1)'
+publication: '*Journal of the World Aquaculture Society 54*(5): 1247-1259'
 publication_short: ""
 publication_types:
 - "2"

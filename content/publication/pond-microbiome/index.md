@@ -24,7 +24,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: [pond-ecology]
-publication: '*Journal of the World Aquaculture Society, 2023*(1)'
+publication: '*Journal of the World Aquaculture Society, 55*(1): 289-301'
 publication_short: ""
 publication_types:
 - "2"

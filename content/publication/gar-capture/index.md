@@ -14,7 +14,7 @@ image:
   focal_point: ""
   preview_only: true
 projects: [gar]
-publication: '*Journal of Fish and Wildlife Management, 10*(2)'
+publication: '*Journal of Fish and Wildlife Management, 10*(2): 551-562'
 publication_short: ""
 publication_types:
 - "2"

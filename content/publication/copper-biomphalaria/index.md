@@ -29,7 +29,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: [trematode-management]
-publication: '*North American Journal of Aquaculture, 85*: 116-122'
+publication: '*North American Journal of Aquaculture, 85*(2): 116-122'
 publication_short: ""
 publication_types:
 - "2"
