@@ -58,14 +58,14 @@ interests:
   - Aquatic Macroinvertebrates
   - Freshwater Fishes
 
-education:  |
-  - area: PhD Forest Resources - Wildlife, Fisheries, and Aquaculture (Secondary Education)
+education:
+  - area: PhD Forest Resources (Wildlife, Fisheries, and Aquaculture) (Secondary Education Minor)
     institution: Mississippi State University
     date_start: 2016-08-01
     date_end: 2020-12-01
     summary: |
       Dissertation on developing protocols and tools for monitoring atypical *Aeromonas hydrophila* in catfish  aquaculture. Supervised by [Michael E. Colvin, PhD](https://www.linkedin.com/in/michael-colvin-430a492a/) and [David J. Wise, PhD](https://www.wildlifefisheries.msstate.edu/people/djw11).
-   button:
+    button:
      text: "Read Thesis"
      url: ""
   - area: MSc Biology
@@ -74,7 +74,7 @@ education:  |
     date_end: 2025-12-01
     summary: |
       Thesis on comparing diets of four native gar species in Kentucky. Supervised by [Michael Flinn](https://mflinnlab.wordpress.com/).
-  - area: BSc Fisheries/Aquatic Biology (Minor: Chemistry)
+  - area: BSc Fisheries/Aquatic Biology (Chemistry Minor)
     institution: Murray State University
     date_start: 2010-08-01
     date_end: 2023-05-01
@@ -82,7 +82,7 @@ work:
   - position: Research Fish Biologist
     company_name: USDA - Agricultural Research Service
     company_url: 'www.ars.usda.gov'
-    company_logo: '/images/ars-logo.png'
+    company_logo: 'images/ars-logo.png'
     date_start: 2021-03-01
     date_end: ''
     summary: |2-
@@ -90,59 +90,59 @@ work:
       - Conduct original research to improve US catfish aquaculture
       - Work directly with industry farmers and stakeholders
       - Develop reports and research updates to inform governmental leaders
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  # - position: Backend Software Engineer
+  #   company_name: X
+  #   company_url: ''
+  #   company_logo: ''
+  #   date_start: 2016-01-01
+  #   date_end: 2020-12-31
+  #   summary: |
+  #     Responsibilities include:
+  #     - Migrated infrastructure to a new data center
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: R/Rstudio
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Ecological Science
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Microsoft Suite
         description: ''
         percent: 40
         icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+  # - name: Hobbies
+  #   color: '#eeac02'
+  #   color_border: '#f0bf23'
+  #   items:
+  #     - name: Hiking
+  #       description: ''
+  #       percent: 60
+  #       icon: person-simple-walk
+  #     - name: Cats
+  #       description: ''
+  #       percent: 100
+  #       icon: cat
+  #     - name: Photography
+  #       description: ''
+  #       percent: 80
+  #       icon: camera
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+# languages:
+#   - name: English
+#     percent: 100
+#   - name: Chinese
+#     percent: 75
+#   - name: Portuguese
+#     percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
