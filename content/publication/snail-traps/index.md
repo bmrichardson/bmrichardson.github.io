@@ -28,9 +28,11 @@ abstract: _Bolbophorus damnificus_ is a digenetic trematode causing significant 
 summary: 
 
 tags:
-- Bolbophorus
+- Snails
+- Planorbella
+- Biomphalaria
 - Catfish
-- Snail
+- Bolbophorus
 
 featured: true
 
