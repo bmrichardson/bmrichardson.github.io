@@ -10,11 +10,8 @@ authors:
 - David J. Wise
 author_notes:
 - "Equal contribution"
-date: "2023-05-13T00:00:00Z"
+date: "2023-05-13"
 doi: ""
-
-# Schedule page publish date (NOT publication's date).
-#publishDate: "2017-01-15T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -23,7 +20,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Journal of the World Aquaculture Society, 54*(5)"
-publication_short: "JWAS"
+publication_short: ""
 
 abstract: *Bolbophorus damnificus* is a digenetic trematode causing significant economic losses within the United States commercial catfish industry. The indirect life cycle is complex, requiring piscivorous birds, aquatic snails, and fish to complete. With federal protections on many piscivorous birds and no FDA-approved therapeutic treatment for trematode infections in fish, management within the catfish industry is primarily limited to controlling the snail host. *Planorbella trivolvis* and *Biomphalaria havanensis* are snails commonly found in commercial catfish ponds and known to transmit *B. damnificus*. This study evaluated a low-cost snail trap prototype for monitoring populations of these snails in efforts to better inform treatment regimes. Snail traps were deployed into ponds on a commercial catfish farm and checked weekly throughout the production season. All snails were identified and counted to evaluate trap efficacy. Traps captured significantly more snails in foodfish ponds than in fingerling ponds; however, this trend was not present in monthly box samples. *B. havanensis* was rarely collected and was only found consistently within one pond, while *P. trivolvis* was routinely collected from all ponds, although abundance varied widely among ponds. Snail traps could be a useful, low-cost method to monitor snail populations within ponds and better inform control treatments.
 
