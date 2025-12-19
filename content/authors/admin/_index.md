@@ -24,7 +24,7 @@ role: Research Fish Biologist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: USDA Agricultural Research Service
+  - name: USDA - Agricultural Research Service
     url: https://www.ars.usda.gov/
 
 # Social network links
@@ -35,16 +35,22 @@ profiles:
 #    label: E-mail Me
   - icon: envelope
     link: '#contact'
-  - icon: linkedin
+    label: E-mail Me
+  - icon: linkedin.svg
     link: https://www.linkedin.com/in/bradleymrichardson/
-  - icon: orcid
+    label: LinkedIn
+  - icon: orcid.svg
     link: https://orcid.org/0000-0001-8707-1191
-  - icon: researchgate
+    label: OrcID
+  - icon: researchgate.svg
     link: https://www.researchgate.net/profile/Bradley_Richardson2
-  - icon: google-scholar
+    label: ResearchGate
+  - icon: google-scholar.svg
     link: https://scholar.google.com/citations?user=WNRbb48AAAAJ&hl=en
-  - icon: github
+    label: Google Scholar
+  - icon: github.svg
     link: https://github.com/bmrichardson
+    label: GitHub
 
 interests:
   - Aquatic Ecology

@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2022-10-24
+date: 2025-12-19
 type: landing
 
 design:
@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/Richardson_Bradley_CV_01NOV23.pdf
     design:
       css_class: dark
       background:
@@ -35,11 +35,10 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I'm a research biologist at the Warmwater Aquaculture Research Unit of the USDA Agricultural Research Service. I use a combination of laboratory- and field-based studies to improve the United State catfish aquaculture industry.
         
-        Please reach out to collaborate 😃
+        My primary research focuses on the monitoring and management of aquatic snails, which play host to numerous parasites detrimental to catfish production. Recent work has also expanded my focus to include snails detrimentally impacting the rice and crawfish industries of the United States, as well.
+
     design:
       columns: '1'
   - block: collection
