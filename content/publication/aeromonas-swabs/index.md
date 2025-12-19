@@ -1,5 +1,5 @@
 ---
-title: "Using quantitative polymerase chain reaction (qPCR) and occupancy models to estimate atypical _Aeromonas hydrophila_ (aAh) prevalence in catfish"
+title: "Using quantitative polymerase chain reaction (qPCR) and occupancy models to estimate atypical *Aeromonas hydrophila* (aAh) prevalence in catfish"
 authors:
 - admin
 - Matt J. Griffin
@@ -17,7 +17,7 @@ date: "2021-01-15T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-15T00:00:00Z"
+#publishDate: "2017-01-15T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
