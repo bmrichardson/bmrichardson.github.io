@@ -30,9 +30,9 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  # - icon: at-symbol
-  #   url: 'mailto:your-email@example.com'
-  #   label: E-mail Me
+#  - icon: at-symbol
+#    url: 'mailto:your-email@example.com'
+#    label: E-mail Me
   - icon: envelope
     icon_pack: fas
     link: '#contact'
@@ -58,22 +58,22 @@ interests:
   - Aquatic Macroinvertebrates
   - Freshwater Fishes
 
-education:
+education:  |
   - area: PhD Forest Resources - Wildlife, Fisheries, and Aquaculture (Secondary Education)
     institution: Mississippi State University
     date_start: 2016-08-01
     date_end: 2020-12-01
     summary: |
       Dissertation on developing protocols and tools for monitoring atypical *Aeromonas hydrophila* in catfish  aquaculture. Supervised by [Michael E. Colvin, PhD](https://www.linkedin.com/in/michael-colvin-430a492a/) and [David J. Wise, PhD](https://www.wildlifefisheries.msstate.edu/people/djw11).
-    button:
-      text: "Read Thesis""
-      url: "https://www.proquest.com/openview/79e28d6f36318b4dc6d97f147c4e1dfe/1.pdf?pq-origsite=gscholar&cbl=18750&diss=y"
+   button:
+     text: "Read Thesis"
+     url: ""
   - area: MSc Biology
     institution: Murray State University
     date_start: 2013-08-01
     date_end: 2025-12-01
     summary: |
-      Thesis on the comparing diets of four native gar species in Kentucky. Supervised by [Michael Flinn](https://mflinnlab.wordpress.com/).
+      Thesis on comparing diets of four native gar species in Kentucky. Supervised by [Michael Flinn](https://mflinnlab.wordpress.com/).
   - area: BSc Fisheries/Aquatic Biology (Minor: Chemistry)
     institution: Murray State University
     date_start: 2010-08-01
