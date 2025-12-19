@@ -37,18 +37,23 @@ profiles:
     link: '#contact'
     label: E-mail Me
   - icon: linkedin.svg
+    icon_pack: fas
     link: https://www.linkedin.com/in/bradleymrichardson/
     label: LinkedIn
-  - icon: orcid.svg
+  - icon: orcid
+    icon_pack: fas
     link: https://orcid.org/0000-0001-8707-1191
     label: OrcID
-  - icon: researchgate.svg
+  - icon: researchgate
+    icon_pack: fas
     link: https://www.researchgate.net/profile/Bradley_Richardson2
     label: ResearchGate
-  - icon: google-scholar.svg
+  - icon: google-scholar
+    icon_pack: fas
     link: https://scholar.google.com/citations?user=WNRbb48AAAAJ&hl=en
     label: Google Scholar
-  - icon: github.svg
+  - icon: github
+    icon_pack: fas
     link: https://github.com/bmrichardson
     label: GitHub
 
