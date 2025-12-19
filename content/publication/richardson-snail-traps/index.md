@@ -42,7 +42,7 @@ featured: true
 #   url: ""
 url_pdf: 'https://doi.org/10.1111/jwas.12962'
 url_code: ''
-url_dataset: ''
+url_dataset: 'https://doi.org/10.15482/USDA.ADC/1529417'
 url_poster: ''
 url_project: ''
 url_slides: ''
