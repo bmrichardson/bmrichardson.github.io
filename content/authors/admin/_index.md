@@ -60,8 +60,8 @@ education:
     summary: |
       Dissertation on developing protocols and tools for monitoring atypical *Aeromonas hydrophila* in catfish  aquaculture. Supervised by [Michael E. Colvin, PhD](https://www.linkedin.com/in/michael-colvin-430a492a/) and [David J. Wise, PhD](https://www.wildlifefisheries.msstate.edu/people/djw11).
     button:
-     text: "Read Thesis"
-     url: ""
+     text: "Read Dissertation"
+     url: "https://www.proquest.com/openview/79e28d6f36318b4dc6d97f147c4e1dfe/1.pdf?pq-origsite=gscholar&cbl=18750&diss=y"
   - area: MSc Biology
     institution: Murray State University
     date_start: 2013-08-01
