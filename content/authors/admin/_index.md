@@ -10,8 +10,8 @@ first_name: Bradley
 last_name: Richardson
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -58,7 +58,7 @@ education:
     date_start: 2016-08-01
     date_end: 2020-12-01
     summary: |
-      Dissertation on developing protocols and tools for monitoring atypical *Aeromonas hydrophila* in catfish  aquaculture. Supervised by [Michael E. Colvin, PhD](https://www.linkedin.com/in/michael-colvin-430a492a/) and [David J. Wise, PhD](https://www.wildlifefisheries.msstate.edu/people/djw11).
+      Dissertation on developing protocols and tools for monitoring atypical *Aeromonas hydrophila* in catfish  aquaculture. Supervised by Michael E. Colvin and David J. Wise.
     button:
      text: "Read Dissertation"
      url: "https://www.proquest.com/openview/79e28d6f36318b4dc6d97f147c4e1dfe/1.pdf?pq-origsite=gscholar&cbl=18750&diss=y"
@@ -67,7 +67,7 @@ education:
     date_start: 2013-08-01
     date_end: 2025-12-01
     summary: |
-      Thesis on comparing diets of four native gar species in Kentucky. Supervised by [Michael Flinn](https://mflinnlab.wordpress.com/).
+      Thesis on comparing diets of four native gar species in Kentucky. Supervised by Michael Flinn.
   - area: BSc Fisheries/Aquatic Biology (Chemistry Minor)
     institution: Murray State University
     date_start: 2010-08-01
@@ -142,34 +142,34 @@ skills:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+# awards:
+#   - title: Neural Networks and Deep Learning
+#     url: https://www.coursera.org/learn/neural-networks-deep-learning
+#     date: '2023-11-25'
+#     awarder: Coursera
+#     icon: coursera
+#     summary: |
+#       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+#   - title: Blockchain Fundamentals
+#     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+#     date: '2023-07-01'
+#     awarder: edX
+#     icon: edx
+#     summary: |
+#       Learned:
+#       - Synthesize your own blockchain solutions
+#       - Gain an in-depth understanding of the specific mechanics of Bitcoin
+#       - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+#   - title: 'Object-Oriented Programming in R'
+#     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+#     certificate_url: https://www.datacamp.com
+#     date: '2023-01-21'
+#     awarder: datacamp
+#     icon: datacamp
+#     summary: |
+#       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Research Fish Biologist with the USDA-ARS Warmwater Aquaculture Research Unit. My research primarily centers on the ecology of snails and other macroinvertebrates in catfish aquaculture ponds and how this subsequently impacts catfish production. My research interests cover a wide breadth of aquatic ecology including macroinvertebrate and fish community structures, species interactions, predator-prey interactions, as well as general ecology and life histories. I also have a strong interest in educational research, particularly in how note-taking effects information retention in the classroom.
