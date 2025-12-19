@@ -35,7 +35,7 @@ tags:
 - Catfish
 - Snail
 
-featured: true
+featured: false
 
 # links:
 # - name: ""
