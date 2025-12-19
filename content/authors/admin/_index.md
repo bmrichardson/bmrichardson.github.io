@@ -34,22 +34,16 @@ profiles:
 #    url: 'mailto:your-email@example.com'
 #    label: E-mail Me
   - icon: envelope
-    icon_pack: fas
     link: '#contact'
-  - icon: linkedin-square
-    icon_pack: fab
+  - icon: linkedin
     link: https://www.linkedin.com/in/bradleymrichardson/
   - icon: orcid
-    icon_pack: ai
     link: https://orcid.org/0000-0001-8707-1191
   - icon: researchgate
-    icon_pack: ai
     link: https://www.researchgate.net/profile/Bradley_Richardson2
   - icon: google-scholar
-    icon_pack: ai
     link: https://scholar.google.com/citations?user=WNRbb48AAAAJ&hl=en
   - icon: github
-    icon_pack: fab
     link: https://github.com/bmrichardson
 
 interests:
