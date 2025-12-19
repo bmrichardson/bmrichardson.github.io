@@ -1,7 +1,4 @@
 ---
-header:
-  caption: ""
-  image: ""
-title: Posts
-view: 2
+title: Blog
+view: article-grid
 ---
