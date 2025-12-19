@@ -66,14 +66,14 @@ education:
     summary: |
       Dissertation on developing protocols and tools for monitoring atypical *Aeromonas hydrophila* in catfish  aquaculture. Supervised by [Michael E. Colvin, PhD](https://www.linkedin.com/in/michael-colvin-430a492a/) and [David J. Wise, PhD](https://www.wildlifefisheries.msstate.edu/people/djw11).
     button:
-      text: 'Read Thesis'
-      file: 'uploads/RichardsonBM_Dissertation.pdf'
+      text: 'Read Dissertation'
+      file: ''
   - area: MSc Biology
     institution: Murray State University
     date_start: 2013-08-01
     date_end: 2025-12-01
     summary: |
-      Thesis on the comparing diets of 4 native gar species in Kentucky. Supervised by [Michael Flinn](https://mflinnlab.wordpress.com/).
+      Thesis on the comparing diets of four native gar species in Kentucky. Supervised by [Michael Flinn](https://mflinnlab.wordpress.com/).
   - area: BSc Fisheries/Aquatic Biology (Minor: Chemistry)
     institution: Murray State University
     date_start: 2010-08-01
