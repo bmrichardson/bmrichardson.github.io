@@ -1,5 +1,5 @@
 ---
-title: "Using quantitative polymerase chain reaction (qPCR) and occupancy models to estimate atypical *Aeromonas hydrophila* (aAh) prevalence in catfish"
+title: "Using quantitative polymerase chain reaction (qPCR) and occupancy models to estimate atypical _Aeromonas hydrophila_ (aAh) prevalence in catfish"
 authors:
 - admin
 - Matt J. Griffin
@@ -14,7 +14,7 @@ authors:
 author_notes:
 - "Equal contribution"
 date: "2021-01-15T00:00:00Z"
-doi: "https://doi.org/10.1016/j.aquaculture.2020.735687"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-15T00:00:00Z"
@@ -34,13 +34,15 @@ abstract: A strain of atypical _Aeromonas hydrophila_ (aAh) has caused issues wi
 summary: A multiplex qPCR assay and hierarchical occupancy models were used to evaluate atypical *Aeromonas hydrophila* (aAh) prevalence on a US catfish aquaculture facility. The bacterium was more prevalent in the lower intestine of healthy fish than in the gills, based on culture swabs and qPCR assay. Occupancy models estimated prevalence to be 3-4x higher than PCR detection alone. The study confirms the presence of a carrier state may help explain the rapid progression and sudden mortality events associated with many aAh outbreaks.
 
 tags:
-- Source Themes
+- Aeromonas
+- Catfish
+
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://doi.org/10.1016/j.aquaculture.2020.735687
+url_pdf: 'https://doi.org/10.1016/j.aquaculture.2020.735687'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -71,12 +73,4 @@ projects: []
 slides: example
 ---
 
-# {{% callout note %}}
-# Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-# {{% /callout %}}
-# 
-# {{% callout note %}}
-# Create your slides in Markdown - click the *Slides* button to check out the example.
-# {{% /callout %}}
-# 
-# Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+
