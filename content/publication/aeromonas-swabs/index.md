@@ -40,7 +40,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S00448486203062201
+url_pdf: https://doi.org/10.1016/j.aquaculture.2020.735687
 url_code: ''
 url_dataset: ''
 url_poster: ''
