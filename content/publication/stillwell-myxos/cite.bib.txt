@@ -1,0 +1,13 @@
+@article{stilwell2021characterisation,
+  title={Characterisation of myxozoan fauna of western mosquitofish, Gambusia affinis (Baird and Gerard)(Cyprinodontiformes: Poeciliidae), inhabiting experimental catfish ponds in Mississippi, USA},
+  author={Stilwell, Justin M and Rosser, Thomas G and Woodyard, Ethan T and Richardson, Bradley M and L{\'o}pez-Porras, Adri{\'a}n and Leary, John H and Mischke, Charles C and Camus, Alvin C and Griffin, Matt J},
+  journal={Systematic Parasitology},
+  volume={98},
+  number={4},
+  pages={423--441},
+  year={2021},
+  publisher={Springer}
+}
+
+
+
