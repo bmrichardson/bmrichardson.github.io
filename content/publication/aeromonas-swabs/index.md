@@ -13,8 +13,8 @@ authors:
 - Mark L. Lawrence
 author_notes:
 - "Equal contribution"
-date: "2021-01-01T00:00:00Z"
-doi: ""
+date: "2021-01-15T00:00:00Z"
+doi: "https://doi.org/10.1016/j.aquaculture.2020.735687"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-15T00:00:00Z"
