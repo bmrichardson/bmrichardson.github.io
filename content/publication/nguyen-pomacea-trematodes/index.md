@@ -1,5 +1,5 @@
 ---
-title: "First report of a trematode infection in an invasive population of Pomacea maculata: Evidence of a phaneropsolid (Trematoda: Microphalloidea) and recommended methods for surveillance"
+title: "First report of a trematode infection in an invasive population of *Pomacea maculata*: Evidence of a phaneropsolid (Trematoda: Microphalloidea) and recommended methods for surveillance"
 authors:
 - Jonah A. Nguyen
 - Lori Tolley-Jordan
