@@ -48,7 +48,7 @@ tags:
 - Catfish
 - Bolbophorus
 
-featured: true
+featured: false
 
 # links:
 # - name: ""
