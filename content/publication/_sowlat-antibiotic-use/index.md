@@ -1,21 +1,19 @@
 ---
-title: "Trematode parasitism increases mortality in marsh ramshorn snails Planorbella trivolvis exposed to repeated low-dose copper sulfate treatments in laboratory trials"
+title: "Trends in antibiotic use and susceptibility of Edwardsiella ictaluri: an 18-year retrospective from the "delta" region of western Mississippi"
 authors:
+- Maural Sowlat
+- Lester H. Khoo
 - admin
-- Charles C. Mischke
-- Thomas G. Rosser
-- Sujita Balami
-- Celene M. Slifka
+- Marsha A. Lewis
+- James M. Steadman
+- Cynthia C. Ware
 - Divya Rose
-- Ambika Tiwari
-- Monica L. Wood
-- Geoffrey C. Waldbieser
 - David J. Wise
 - Matt J. Griffin
 author_notes:
 - "Equal contribution"
-date: "2025-09-15"
-doi: ""
+date: "2026-05-14"
+doi: "10.1093/naaqua/vrag013"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -23,37 +21,36 @@ doi: ""
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*North American Journal of Aquaculture, 87*(4)"
-publication_short: "*NAJA, 87*(4)"
+publication: "*North American Journal of Aquaculture, 88*(4)"
+publication_short: ""
 
 abstract: "Objective
-Controlling the trematode *Bolbophorus damnificus* in catfish aquaculture relies on disrupting the parasite life cycle by targeting the snail intermediate hosts. Copper sulfate pentahydrate (CSP) is a common and effective molluscicide but can have adverse effects on fish health. In laboratory studies designed to improve safety and optimize CSP treatments, nontreated wild-caught snails have demonstrated poor survival. This may indicate poor snail vigor from handling and transport, environmental stressors, or trematode parasitism. Here, CSP toxicity to marsh ramshorn snails *Planorbella trivolvis* was compared between laboratory-reared snails and wild-caught individuals (i.e., from catfish ponds), which were further divided into individuals actively shedding trematode cercariae and those not actively shedding cercariae.
+Antibiotic resistance is a persistent concern for the global aquaculture industry. Monitoring trends in key bacterial species can help to preserve antibiotic effectiveness and sustain treatment success.
 
 Methods
-Given the relatively low prevalence of *B. damnificus* in snail populations, snails that were parasitized with a more common trematode, *Alloglossidium kenti*, served as a proxy for the effects of trematode parasitism on marsh ramshorn snails exposed to CSP. Two trials consisted of four weekly treatments of varying CSP concentrations.
+At Mississippi State University’s Aquatic Research and Diagnostic Laboratory (ARDL) in Stoneville, Mississippi, the susceptibility of bacterial pathogens to approved antibiotics is estimated by disk diffusion assays. Susceptibility records, documented as zone of inhibition (ZOI) diameters (mm), along with antibiotic feed directives from the period 2007–2024, were assessed to monitor changes in the in vitro susceptibility of *Edwardsiella ictaluri* (the causative agent of enteric septicemia of catfish) and patterns of medicated feed use in the region. Susceptibility to florfenicol (FFC), oxytetracycline (OTC), and sulfadimethoxine–ormetoprim 5:1 is assessed for all case submissions to ARDL. According to ARDL standards, which are based on client feedback, isolates are considered susceptible (responsive) when the ZOI measures 20 mm or greater.
 
 Results
-In both trials, survival curves and hazard analysis revealed that laboratory-reared snails were most resistant to CSP, followed by nonshedding pond snails. Pond snails that were actively shedding *A. kenti* cercariae were most sensitive to CSP treatment.
+In total, 3,911 diagnostic records were included in this retrospective, with mean ZOI diameters (±SD) for susceptible isolates measuring 47.98 mm (±7.42) for FFC, 36.54 mm (±7.79) for OTC, and 35.53 mm (±6.23) for sulfadimethoxine–ormetoprim. For FFC, ZOI diameters were distributed bimodally, showing a population divide and potential epidemiological cutoff value above ARDL’s clinical breakpoint of 20 mm. A high percentage (16.18% [625/3,870]) of isolates were unresponsive (ZOI = 0 mm) to OTC, which correlated to smaller FFC ZOIs. Data revealed a period spanning approximately 9 years (2014–2022) during which the prevalence of case isolates with reduced susceptibility to at least one antibiotic was elevated. This trend aligns with increased directed antibiotic use starting in 2013. After initiation of an experimental *E. ictaluri* vaccine program in 2019, there were marked reductions in antibiotic use in the region, which correlated with a return to baseline levels of susceptibility observed at ARDL.
 
 Conclusions
-Increased susceptibility of parasitized snails to lower CSP doses demonstrates a potential targeted approach that would be selective against parasitized snails within catfish pond systems. Therefore, complete eradication of marsh ramshorn snails from catfish ponds may not be necessary for effective trematode control, and lower doses than those previously reported may prove effective at mitigating trematode-associated losses in U.S. catfish aquaculture."
+This study demonstrates the impact of antibiotic use on susceptibility trends, highlighting the complex selective influences underlying the dynamics and instability of antimicrobial resistance within these bacterial populations and illustrating the potential to effectively combat antimicrobial resistance in aquaculture systems through vaccination and judicious antibiotic use."
 
 # Summary. An optional shortened abstract.
 summary: 
 
 tags:
-- Snails
-- Parasites
-- Planorbella
 - Catfish
-- Bolbophorus
+- Bacteria
+- Pathogen
+- Antibiotics
 
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://doi.org/10.1093/naaqua/vraf023'
+url_pdf: 'https://doi.org/10.1093/naaqua/vrag013'
 url_code: ''
 url_dataset: ''
 url_poster: ''
