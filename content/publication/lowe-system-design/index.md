@@ -13,7 +13,7 @@ authors:
 author_notes:
 - "Equal contribution"
 date: "2025-10-01"
-doi: ""
+doi: "10.13031/aea.16250"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
