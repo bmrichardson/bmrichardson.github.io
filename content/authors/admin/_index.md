@@ -44,7 +44,7 @@ profiles:
     #icon_pack: fas
     link: https://orcid.org/0000-0001-8707-1191
     label: OrcID
-  - icon: brands/researchgate
+  - icon: academicons/researchgate
     #icon_pack: fas
     link: https://www.researchgate.net/profile/Bradley_Richardson2
     label: ResearchGate
