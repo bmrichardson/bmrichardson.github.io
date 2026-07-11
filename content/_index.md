@@ -35,9 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I'm a research biologist at the Warmwater Aquaculture Research Unit of the USDA Agricultural Research Service. I use a combination of laboratory- and field-based studies to improve the United State catfish aquaculture industry.
+        I'm a research biologist at the Warmwater Aquaculture Research Unit of the USDA Agricultural Research Service. I use a combination of laboratory- and field-based studies to improve the United States catfish aquaculture industry.
         
-        My primary research focuses on the monitoring and management of aquatic snails, which play host to numerous parasites detrimental to catfish production. Recent work has also expanded my focus to include snails detrimentally impacting the rice and crawfish industries of the United States, as well.
+        My primary research focuses on the monitoring and management of aquatic snails, which play host to numerous parasites detrimental to catfish production. Recent work has also expanded my focus to include snails detrimentally impacting the rice and crayfish industries of the United States, as well.
 
     design:
       columns: '1'

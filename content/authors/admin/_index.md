@@ -63,26 +63,31 @@ interests:
   - Aquatic Macroinvertebrates
   - Freshwater Fishes
 
+
 education:
   - area: PhD Forest Resources (Wildlife, Fisheries, and Aquaculture) (Secondary Education Minor)
     institution: Mississippi State University
     date_start: 2016-08-01
     date_end: 2020-12-01
     summary: |
-      Dissertation on developing protocols and tools for monitoring atypical *Aeromonas hydrophila* in catfish  aquaculture. Supervised by Michael E. Colvin and David J. Wise.
+      Dissertation topic: Improved monitoring and decision-making to manage atypical *Aeromonas hydrophila* (aAh) in catfish aquaculture ponds. Supervised by Drs. Michael E. Colvin and David J. Wise.
     button:
      text: "Read Dissertation"
      url: "https://www.proquest.com/openview/79e28d6f36318b4dc6d97f147c4e1dfe/1.pdf?pq-origsite=gscholar&cbl=18750&diss=y"
+     
   - area: MSc Biology
     institution: Murray State University
     date_start: 2013-08-01
     date_end: 2025-12-01
     summary: |
-      Thesis on comparing diets of four native gar species in Kentucky. Supervised by Michael Flinn.
+      Thesis topic: A dietary comparison of the reintroduced alligator gar *Atractosteus	spatula* and three sympatric gar relatives (family: Lepisosteidae) in the Clarks 	River, Kentucky. Supervised by Dr. Michael B. Flinn.
+      
   - area: BSc Fisheries/Aquatic Biology (Chemistry Minor)
     institution: Murray State University
     date_start: 2010-08-01
     date_end: 2023-05-01
+    
+    
 work:
   - position: Research Fish Biologist
     company_name: USDA - Agricultural Research Service
@@ -90,11 +95,57 @@ work:
     company_logo: 'images/ars-logo.png'
     date_start: 2021-03-01
     date_end: ''
-    summary: |2-
+    summary: |
       Responsibilities include:
       - Conduct original research to improve US catfish aquaculture
       - Work directly with industry farmers and stakeholders
       - Develop reports and research updates to inform governmental leaders
+  - position: Intermittent Researcher
+    company_name: National Warmwater Aquaculture Center, Mississippi State University
+    company_url: ''
+    company_logo: ''
+    date_start: 2020-12-01
+    date_end: 2021-02-28
+    summary: |
+      Responsibilities include:
+      - Conduct original research to improve US catfish aquaculture
+      - Work directly with industry farmers and stakeholders
+      - Provide technical expertise for analysis of complex data
+  - position: Graduate Teaching Assistant
+    company_name: Mississippi State University
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-08-01
+    date_end: 2020-12-01
+    summary: |
+      Responsibilities include:
+      - Set up classroom and laboratory activities
+      - Develop and grade assignments and tests
+      - Courses included: Fish Physiology, Applied Aquatic and Terrestrial Ecology, Fisheries Science, Fisheries Management
+  - position: Critical Species Technician II (Fisheries) [GFTL]
+    company_name: Kentucky Department of Fish and Wildlife Resources
+    company_url: ''
+    company_logo: ''
+    date_start: 2015-01-01
+    date_end: 2015-09-30
+    summary: |
+      Responsibilities include:
+      - Maintain equipment and office grounds
+      - Aid in sampling Lake Barkley and Kentucky Lake for crappie, largemouth bass, catfish, and sunfish
+      - Maintain boat ramps and water access points
+      - Monitor American paddlefish, shovelnose sturgeon, and Asian carp populations via ride-alongs with commercial fishermen
+  - position: Graduate Teaching Assistant
+    company_name: Murray State University
+    company_url: ''
+    company_logo: ''
+    date_start: 2013-08-01
+    date_end: 2015-12-01
+    summary: |
+      Responsibilities include:
+      - Set up classroom and laboratory activities
+      - Conduct test prep and review sessions with students
+      - Develop and grade assignments and tests
+      - Courses included: Introduction to Biology (Lab Instructor), Zoology
   # - position: Backend Software Engineer
   #   company_name: X
   #   company_url: ''
@@ -107,23 +158,24 @@ work:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
+
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: R/Rstudio
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Ecological Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Microsoft Suite
-        description: ''
-        percent: 40
-        icon: circle-stack
+# skills:
+#   - name: Technical Skills
+#     items:
+#       - name: R/Rstudio
+#         description: ''
+#         percent: 80
+#         icon: code-bracket
+#       - name: Ecological Science
+#         description: ''
+#         percent: 100
+#         icon: chart-bar
+#       - name: Microsoft Suite
+#         description: ''
+#         percent: 40
+#         icon: circle-stack
   # - name: Hobbies
   #   color: '#eeac02'
   #   color_border: '#f0bf23'
