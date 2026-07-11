@@ -1,5 +1,5 @@
 ---
-title: " Intraspecific variation of *Edwardsiella anguillarum* from non-anguillid fish from varied geographic origins"
+title: " Intraspecific variation of Edwardsiella anguillarum from non-anguillid fish from varied geographic origins"
 authors:
 - Abigail R. Armwood
 - Divya Rose
