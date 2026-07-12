@@ -1,5 +1,5 @@
 ---
-title: "Trends in antibiotic use and susceptibility of Edwardsiella ictaluri: an 18-year retrospective from the "delta" region of western Mississippi"
+title: "Trends in antibiotic use and susceptibility of Edwardsiella ictaluri: an 18-year retrospective from the 'delta' region of western Mississippi"
 authors:
 - Maural Sowlat
 - Lester H. Khoo
