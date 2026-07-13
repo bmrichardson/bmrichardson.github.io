@@ -18,7 +18,7 @@ authors:
 author_notes:
 - "Equal contribution"
 date: "2024-08-11"
-doi: ""
+doi: "10.1111/jfd.14005"
 
 
 # Publication type.
@@ -28,7 +28,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Journal of Fish Diseases, 47*(11)"
-publication_short: "*JFD, 47*(11)"
+publication_short: ""
 
 abstract: "Ictalurid herpesvirus 1 (IcHV1) is the most significant viral agent in U.S. catfish aquaculture. Little is known regarding the genetic stability and antigenic variability of IcHV1. Herein, the genetic and antigenic diversity of IcHV1 field isolates was assessed by restriction fragment length polymorphism (RFLP) analysis and serum neutralization assays. RFLP analysis identified two distinct genotypes (IcHV1A and IcHV1B), both discrete from blue catfish alloherpesvirus (BCAHV). Neutralization assays with anti-IcHV1 monoclonal antibody Mab-95 indicate shared antigenic determinants for IcHV1A and IcHV1B that are absent from BCAHV, which Mab-95 did not neutralize. Virulence assessments with representative isolates demonstrate significant differences between isolates within RFLP groups and pooled RFLP group data suggest IcHV1B (pooled survival [mean ± SE]: 58.3% ± 2.6) may be more virulent than IcHV1A (survival: 68.6% ± 2.4). Rechallenges with representative IcHV1A and IcHV1B isolates indicate a cross-protective effect, with fish surviving initial exposure to IcHV1A or IcHV1B showing robust protection when subsequently re-exposed to IcHV1A or IcHV1B. This work demonstrated significant differences in virulence between case isolates, identifying two discrete IcHV1 lineages, distinct from BCAHV, with similar virulence in channel and channel × blue catfish hybrids and a cross-protective effect in catfish surviving exposure to either lineage."
 

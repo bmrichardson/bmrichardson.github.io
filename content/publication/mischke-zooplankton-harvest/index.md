@@ -10,7 +10,7 @@ authors:
 author_notes:
 - "Equal contribution"
 date: "2025-11-18"
-doi: ""
+doi: "10.1093/naaqua/vraf028"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -19,7 +19,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*North American Journal of Aquaculture, 88*(1)"
-publication_short: "*NAJA, 88*(1)"
+publication_short: ""
 
 abstract: "Objective
 The objective of this study was to quantify the cascading effects on the pond ecology and water quality that result from mechanically harvesting large zooplankton (>250 µm) and to track the nutritional value of zooplankton over time.

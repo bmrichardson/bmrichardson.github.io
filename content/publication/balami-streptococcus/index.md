@@ -1,5 +1,5 @@
 ---
-title: "Streptococcus dysgalactiae From Farm-Raised Channel Catfish in Mississippi, USA, With Notes on Fish-Associated Group C S. dysgalactiae"
+title: "Streptococcus dysgalactiae from rarm-raised channel catfish in Mississippi, USA, with notes on fish-associated group C S. dysgalactiae"
 authors:
 - Sujita Balami
 - Lester H. Khoo
@@ -21,7 +21,7 @@ authors:
 author_notes:
 - "Equal contribution"
 date: "2025-06-16"
-doi: ""
+doi: "10.1111/jfd.14166"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -30,7 +30,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Journal of Fish Diseases, 48*(12)"
-publication_short: "*JFD, 48*(12)"
+publication_short: ""
 
 abstract: "Lancefield serological group C *Streptococcus dysgalactiae* (GCSD) is an emerging cause of fish disease worldwide, largely associated with mariculture in Asia. In the United States (US), GCSD had been a pathogen of minimal concern for fish, but recent cases indicate a putative emergence in wild and cultured freshwater fish populations in the Americas. The current study discusses three novel cases of GCSD-associated streptococcosis in US farm-raised channel catfish (*Ictalurus punctatus*) occurring in Mississippi, US, in 2022 and 2023. Infected fish presented with pendulous abdomens, red swollen vents, and petechiae on the mouth, fins and ventral lateral abdomen. Clinical isolates were cultured from the kidney and brain and initially confirmed as GCSD by 16S rRNA gene sequencing, followed by phylogenetic analyses using the superoxide dismutase gene (*sodA*), 16S/23S internal transcribed spacer region and nine genes within a multilocus sequence analysis scheme for piscine pathogenic *Streptococcus*. Catfish GCSD were highly homologous to fish strains from published reports from Asia and South America, forming a discrete phylogenetic clade, separate from human and other terrestrial animal isolates. Pairwise genomic comparisons suggest this fish-associated group does not belong to any currently recognised subspecies and may represent a unique subtype. The broadening host and geographic range of GCSD, coupled with the evidence of a discrete aquatic lineage and recent reports from freshwater fishes in the southeastern US, suggest GCSD is a potential emergent threat to catfish aquaculture in the US."
 

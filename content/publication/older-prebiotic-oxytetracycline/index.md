@@ -1,5 +1,5 @@
 ---
-title: "Impact of Prebiotic and Probiotic Diets on Gut Bacterial Microbiota and Susceptibility to Edwardsiella ictaluri Challenge in Oxytetracycline-Treated Channel Catfish"
+title: "Impact of prebiotic and probiotic diets on gut bacterial microbiota and susceptibility to Edwardsiella ictaluri challenge in oxytetracycline-treated channel catfish"
 authors:
 - Caitlin E. Older
 - admin
@@ -13,7 +13,7 @@ authors:
 author_notes:
 - "Equal contribution"
 date: "2024-12-12"
-doi: ""
+doi: "10.1111/jfd.14066"
 
 
 # Publication type.
@@ -23,7 +23,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Journal of Fish Diseases, 48*(3)"
-publication_short: "*JFD, 48*(3)"
+publication_short: ""
 
 abstract: 
 

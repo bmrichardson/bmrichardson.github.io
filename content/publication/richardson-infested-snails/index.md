@@ -15,7 +15,7 @@ authors:
 author_notes:
 - "Equal contribution"
 date: "2025-09-15"
-doi: ""
+doi: "10.1093/naaqua/vraf023"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -24,7 +24,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*North American Journal of Aquaculture, 87*(4)"
-publication_short: "*NAJA, 87*(4)"
+publication_short: ""
 
 abstract: "Objective
 Controlling the trematode *Bolbophorus damnificus* in catfish aquaculture relies on disrupting the parasite life cycle by targeting the snail intermediate hosts. Copper sulfate pentahydrate (CSP) is a common and effective molluscicide but can have adverse effects on fish health. In laboratory studies designed to improve safety and optimize CSP treatments, nontreated wild-caught snails have demonstrated poor survival. This may indicate poor snail vigor from handling and transport, environmental stressors, or trematode parasitism. Here, CSP toxicity to marsh ramshorn snails *Planorbella trivolvis* was compared between laboratory-reared snails and wild-caught individuals (i.e., from catfish ponds), which were further divided into individuals actively shedding trematode cercariae and those not actively shedding cercariae.

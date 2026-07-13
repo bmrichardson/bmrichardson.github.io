@@ -1,5 +1,5 @@
 ---
-title: "Fingerling stocking size has no influence on proliferative gill disease severity in farm-raised Channel Catfish"
+title: "Fingerling stocking size has no influence on proliferative gill disease severity in farm-raised channel catfish"
 authors:
 - admin
 - Noor ul-Huda
@@ -17,7 +17,7 @@ authors:
 author_notes:
 - "Equal contribution"
 date: "2025-04-04"
-doi: ""
+doi: "10.1093/jahafs/vsae002"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -26,7 +26,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Journal of Aquatic Animal Health, 37*(1)"
-publication_short: "*JAAH, 37*(1)"
+publication_short: ""
 
 abstract: "Objective
 The myxozoan *Henneguya ictaluri* is the causative agent of proliferative gill disease (PGD) in Channel Catfish *Ictalurus punctatus* and hybrid catfish (Channel Catfish × Blue Catfish *I. furcatus*), which is a significant disease concern within the commercial catfish industry of the southeastern United States. Incidence of PGD occurs most frequently in fingerling-sized catfish when the fish are being transferred from nursery ponds to grow-out ponds. Mitigation strategies for PGD primarily involve the avoidance of stocking fish into ponds with existent lethal concentrations of the parasite, as determined through sentinel fish exposures or *H. ictaluri*-specific quantitative PCR. This study aimed to evaluate the potential of stocking larger fingerlings to improve survival and investigate the influence on three metrics of gill condition.

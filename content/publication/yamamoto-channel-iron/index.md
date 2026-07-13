@@ -1,5 +1,5 @@
 ---
-title: "Dietary Iron Fortification Did Not Affect the Intestinal Microbiome for Channel Catfish (Ictalurus punctatus) Juveniles, but Decreased Their Resistance Against Edwardsiella ictaluri"
+title: "Dietary iron fortification did not affect the intestinal microbiome for channel catfish (Ictalurus punctatus) juveniles, but decreased their resistance against Edwardsiella ictaluri"
 authors:
 - Fernando Y. Yamamoto
 - Caitlin E. Older
@@ -15,17 +15,17 @@ authors:
 author_notes:
 - "Equal contribution"
 date: "2024-12-10"
-doi: ""
+doi: "10.1111/jfd.14060"
 
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ["short-communication"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Journal of Fish Diseases, 48*(3)"
-publication_short: "*JFD, 48*(3)"
+publication_short: ""
 
 abstract: 
 
@@ -36,6 +36,7 @@ tags:
 - Edwardsiella
 - Catfish
 - Nutrition
+- Microbiome
 
 featured: false
 
