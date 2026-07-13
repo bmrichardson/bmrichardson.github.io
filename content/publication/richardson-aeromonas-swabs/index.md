@@ -35,7 +35,7 @@ tags:
 - Aeromonas
 - Catfish
 
-featured: false
+featured: true
 
 # links:
 # - name: ""
