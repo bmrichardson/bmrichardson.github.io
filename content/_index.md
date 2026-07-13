@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/Richardson_Bradley_CV_01NOV23.pdf
+        url: uploads/Richardson_Bradley_CV_10JUL26.pdf
     design:
       css_class: dark
       background:
