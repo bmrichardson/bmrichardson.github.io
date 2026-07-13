@@ -1,5 +1,5 @@
 ---
-title: "First report of a trematode infection in an invasive population of *Pomacea maculata*: Evidence of a phaneropsolid (Trematoda: Microphalloidea) and recommended methods for surveillance"
+title: "First report of a trematode infection in an invasive population of Pomacea maculata: Evidence of a phaneropsolid (Trematoda: Microphalloidea) and recommended methods for surveillance"
 authors:
 - Jonah A. Nguyen
 - Lori Tolley-Jordan
@@ -9,7 +9,7 @@ authors:
 author_notes:
 - "Equal contribution"
 date: "2025-12-02"
-doi: ""
+doi: "10.1016/j.parint.2025.103203"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).

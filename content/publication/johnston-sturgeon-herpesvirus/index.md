@@ -1,5 +1,5 @@
 ---
-title: "First Isolation of a Herpesvirus (Family Alloherpesviridae) from Great Lakes Lake Sturgeon (Acipenser fulvescens)"
+title: "First isolation of a herpesvirus (Family Alloherpesviridae) from Great Lakes lake sturgeon (Acipenser fulvescens)"
 authors:
 - Amber E. Johnston
 - Megan A. Shavalier
@@ -17,7 +17,7 @@ authors:
 author_notes:
 - "Equal contribution"
 date: "2022-11-22"
-doi: ""
+doi: "10.3390/ani12233230"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).

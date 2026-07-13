@@ -15,7 +15,7 @@ authors:
 author_notes:
 - "Equal contribution"
 date: "2024-06-30"
-doi: ""
+doi: "10.1016/j.aquaculture.2024.740824"
 
 
 # Publication type.

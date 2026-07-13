@@ -10,7 +10,7 @@ authors:
 author_notes:
 - "Equal contribution"
 date: "2023-09-15"
-doi: ""
+doi: "10.1016/j.aquaculture.2023.739715"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).

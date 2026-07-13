@@ -1,5 +1,5 @@
 ---
-title: "Characterisation of myxozoan fauna of western mosquitofish, _Gambusia affinis_ (Baird and Gerard) (Cyprinodontiformes: Poeciliidae), inhabiting experimental catfish ponds in Mississippi, USA"
+title: "Characterisation of myxozoan fauna of western mosquitofish, Gambusia affinis (Baird and Gerard) (Cyprinodontiformes: Poeciliidae), inhabiting experimental catfish ponds in Mississippi, USA"
 authors:
 - Justin M. Stilwell
 - Thomas G. Rosser
@@ -13,7 +13,7 @@ authors:
 author_notes:
 - "Equal contribution"
 date: "2021-06-10"
-doi: ""
+doi: "10.1007/s11230-021-09987-z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).

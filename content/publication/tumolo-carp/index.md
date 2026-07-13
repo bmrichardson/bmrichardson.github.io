@@ -1,5 +1,5 @@
 ---
-title: "Phytoplankton Survival in Hindgut of Invasive Silver Carp (_Hypophthalmichthys molitrix_)"
+title: "Phytoplankton survival in hindgut of invasive silver carp (Hypophthalmichthys molitrix)"
 authors:
 - Benjamin B. Tumolo
 - admin
@@ -8,7 +8,7 @@ authors:
 author_notes:
 - "Equal contribution"
 date: "2022-01-03"
-doi: ""
+doi: "10.1674/0003-0031-187.1.29"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
